@@ -24,7 +24,7 @@
     "declaration": true,
     "declarationDir": "dist",
     "paths": {
-      "fish-ui-sy": ["./src/index.ts"]
+      "fish-ui-xh": ["./src/index.ts"]
     }
   },
   "include": ["src"]

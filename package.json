@@ -8,8 +8,8 @@
     "type": "git",
     "url": "https://github.com/bubucuo/fish-ui-xh"
   },
-  "main": "dist/fish-ui-sy.cjs.js",
-  "module": "dist/fish-ui-sy.es.js",
+  "main": "dist/fish-ui-xh.cjs.js",
+  "module": "dist/fish-ui-xh.es.js",
   "types": "dist/index.d.ts",
   "publishConfig": {
     "access": "public"
